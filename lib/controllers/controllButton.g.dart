@@ -1,6 +1,6 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
 
-part of 'mobx.dart';
+part of 'controllButton.dart';
 
 // **************************************************************************
 // StoreGenerator

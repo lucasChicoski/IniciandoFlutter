@@ -15,7 +15,7 @@ import 'dart:math';
 //Para criar um gerenciador de estado é preciso de criar uma Classe.
 // Vamos começar criando uma classe !
 
-part 'mobx.g.dart'; //O nome da classe deve ter o mesmo nome do arquivo.
+part 'controllButton.g.dart'; //O nome da classe deve ter o mesmo nome do arquivo.
 
 class AlterColors = AlterColorsBase with _$AlterColors; //Mix das duas classes
 
